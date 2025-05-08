@@ -1,0 +1,8 @@
+System Requirements
+Hardware:
+✓ Minimum: i5 CPU, 8GB RAM
+✓ Recommended: i7 CPU, 16GB+ RAM, 256GB SSD
+Software:
+✓ Python 3.8+
+✓ Libraries: NLTK, Transformers, TensorFlow, Flask, Gradio
+✓ Platform: Ubuntu/Linux/Windows
